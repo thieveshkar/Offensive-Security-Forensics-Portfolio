@@ -134,7 +134,7 @@ Analysis of a captured memory dump using the Volatility Framework.
 ---
 
 ## Licensing & Usage
-**Custom Educational Use License** (`license_security_forensics.md`):
+**Custom Educational Use License** (`./LICENSE`):
 
 - Permitted: personal testing, learning, practice in isolated labs.  
 - Prohibited: unauthorised redistribution, modification, or running exploit code outside authorized environments.
